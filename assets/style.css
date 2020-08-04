@@ -1,0 +1,11 @@
+.card-img-top{
+    height: 250px;
+}
+.card-body{
+    height: 290px;
+    position: relative;
+}
+.icon{
+    position: absolute;
+    bottom: 20px;
+}
