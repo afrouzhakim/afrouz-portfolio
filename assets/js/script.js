@@ -7,7 +7,7 @@ b.set({
 
 var i = 1;
 let changeTitle = () => {
-  let titles = ["Full Stack Web Developer", "UI/UX Designer", "JavaScript Programmer"];
+  let titles = ["Full-stack Web Developer", "UI/UX Designer", "JavaScript Programmer", "Front-end Developer"];
   if (i == titles.length) {
     i = 0;
   }
